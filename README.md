@@ -49,6 +49,9 @@ Una arquitectura moderna con MySQL en OCI se apoya en varios principios fundamen
 
 El foco deja de estar en “mantener la base funcionando” y pasa a **diseñar correctamente la arquitectura que la rodea**.
 
+
+![Arquitectura de Oracle Autonomous Database en OCI](diagrams/mysql-autonomous-overview.png)
+
 ---
 
 ## Comparación con modelos tradicionales de MySQL
@@ -62,6 +65,9 @@ En entornos tradicionales, incluso cuando MySQL se ejecuta en la nube como IaaS,
 - Gestión de fallos y recuperación  
 
 En el modelo gestionado y automatizado de OCI, gran parte de estas tareas se **trasladan a la plataforma**, reduciendo riesgos, errores humanos y costos operativos, y permitiendo un mayor foco en el valor del negocio.
+
+
+![Arquitectura de Oracle Autonomous Database en OCI](diagrams/traditional-vs-oci-mysql.png)
 
 ---
 
@@ -78,6 +84,9 @@ El profesional deja de ser un operador reactivo y pasa a desempeñar funciones m
 - Optimizar costos y consumo de recursos  
 
 La autonomía no reemplaza la arquitectura; **exige una arquitectura mejor diseñada**.
+
+
+![Arquitectura de Oracle Autonomous Database en OCI](diagrams/impacto-dbas-arquitectos.png)
 
 ---
 
